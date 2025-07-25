@@ -29,13 +29,13 @@
 ├── .env # Stores API credentials (not shared)
 └── requirements.txt # Project dependencies
 
-# Created a env file in project root
+## Created a env file in project root
 CONSUMER_KEY=your_consumer_key
 CONSUMER_SECRET=your_consumer_secret
 ACCESS_TOKEN=your_access_token
 ACCESS_TOKEN_SECRET=your_access_token_secret
 
-# Usage 
+## Usage 
 The bot will:
 
 1. Fetch the latest article from Wired AI's RSS feed.
