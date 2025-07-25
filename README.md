@@ -24,7 +24,7 @@
 
 ## 📂 Project Structure
 
-├── XBOT.py # Main bot script
+- XBOT.py # Main bot script
  ─ article.py # Article class definition (stores article details)
  ─ .env # Stores API credentials (not shared)
  ─ requirements.txt # Project dependencies
