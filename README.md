@@ -44,3 +44,10 @@ The bot will:
 
 3. Post the tweet to your connected Twitter (X) account.
 
+## Example Tweet Format
+Title: [Article Title]
+Summary: [Short Summary]
+Author: [Author Name]
+
+https://tinyurl.com/shortened-link
+
